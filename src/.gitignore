@@ -1,0 +1,11 @@
+/vendor
+
+tests/_output/*
+tests/_support/_generated
+
+.env
+
+# runtime and assets
+
+/protected/tests/.phpunit.result.cache
+/protected/vendor
